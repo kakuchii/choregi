@@ -9,5 +9,6 @@ public class Practice6{
         System.out.println(address + "に、以下のメールを送信しました");
         System.out.println("件名:" + tittle);
         System.out.println("本文:" + text);
+        System.out.println("眠い");
     }
 }
